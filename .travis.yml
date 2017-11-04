@@ -2,12 +2,12 @@ sudo: false
 language: python
 python:
   - 3.6
-notifications:
-  on_success: never
-  on_failure: never
 branches:
   except:
   - heroku
+notifications:
+  on_success: never
+  on_failure: never
 before_script:
 - pip install tox
 jobs:

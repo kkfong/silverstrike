@@ -22,4 +22,3 @@ SilverStrike is derived from the German name Silberschlag. Silberschlag is the n
 
 SilverStrike is abbreviated as AgStrike or AgS. Silverstrike is pronounced AgS or SilverStrike.
 
-
